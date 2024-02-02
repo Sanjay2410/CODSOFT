@@ -43,6 +43,7 @@ public class StudentGrade {
         else{
             System.out.println("F");
         }
+        sc.close();
     }
 
     @Override
